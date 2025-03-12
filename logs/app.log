@@ -1,0 +1,50 @@
+2025-03-10 18:57:06 - INFO - Scraper started.
+2025-03-10 18:57:40 - INFO - Loading BART model from local storage.
+2025-03-10 18:58:38 - INFO - Successfully fetched article: What to know about TikTokï¿½s uncertain future in the US and the people who want to buy it
+2025-03-10 18:58:39 - INFO - Successfully fetched article: Following takedown operation, Garantex invites customers to 'face-to-face' Moscow meeting
+2025-03-10 18:58:40 - INFO - Successfully fetched article: Gmail gains an 'Add to calendar' button, powered by Gemini
+2025-03-10 18:58:40 - INFO - Successfully fetched article: Applications open for Startup Battlefield 200
+2025-03-10 18:58:41 - INFO - Successfully fetched article: Host a Side Event at Sessions: AI
+2025-03-10 18:58:41 - INFO - Successfully fetched 5 articles.
+2025-03-10 18:59:25 - INFO - Summarization successful.
+2025-03-10 19:00:40 - INFO - Summarization successful.
+2025-03-10 19:07:30 - INFO - Summarization successful.
+2025-03-10 19:08:41 - ERROR - Error fetching 00: Invalid URL '00': No scheme supplied. Perhaps you meant https://00?
+2025-03-10 19:08:41 - ERROR - Failed to fetch article content from 00
+2025-03-10 19:09:29 - WARNING - Article content is empty or unavailable....
+2025-03-10 19:14:28 - INFO - Successfully fetched article: What to know about TikTokï¿½s uncertain future in the US and the people who want to buy it
+2025-03-10 19:14:32 - INFO - Successfully fetched article: Following takedown operation, Garantex invites customers to 'face-to-face' Moscow meeting
+2025-03-10 19:14:36 - INFO - Successfully fetched article: Gmail gains an 'Add to calendar' button, powered by Gemini
+2025-03-10 19:14:39 - INFO - Successfully fetched article: Applications open for Startup Battlefield 200
+2025-03-10 19:14:42 - INFO - Successfully fetched article: Host a Side Event at Sessions: AI
+2025-03-10 19:14:42 - INFO - Successfully fetched 5 articles.
+2025-03-10 19:14:48 - INFO - Successfully fetched article: Discord is discussing an IPO
+2025-03-10 19:15:19 - INFO - Successfully fetched article: SXSW 2025 live coverage: Jay Graber's keynote, plus more AI, Wooly Mammoths and Death Stranding 2
+2025-03-10 19:15:52 - INFO - Summarization successful
+2025-03-10 20:03:17 - INFO - Scraper started.
+2025-03-10 20:03:42 - INFO - Loading BART model from local storage.
+2025-03-10 20:04:27 - INFO - Successfully fetched article: Elon Musk says X is down due to cyberattacks
+2025-03-10 20:04:27 - INFO - Successfully fetched article: Open social web browser Surf integrates with Bluesky in latest beta
+2025-03-10 20:04:28 - INFO - Successfully fetched article: Insight VC explains the biggest mistake that keeps founders from raising a big round
+2025-03-10 20:04:29 - INFO - Successfully fetched article: Hacker accessed PowerSchoolï¿½s network months before massive December breach
+2025-03-10 20:04:29 - INFO - Successfully fetched article: What to know about TikTokï¿½s uncertain future in the US and the people who want to buy it
+2025-03-10 20:04:29 - INFO - Successfully fetched 5 articles.
+2025-03-10 20:04:54 - INFO - Summarization successful.
+2025-03-10 20:06:17 - INFO - Summarization successful.
+2025-03-10 20:06:27 - INFO - Summarization successful.
+2025-03-10 20:29:49 - INFO - Scraper started.
+2025-03-10 20:30:11 - INFO - Loading BART model from local storage.
+2025-03-10 20:31:29 - INFO - Successfully fetched article: Daqus Energy has a plan to make EV sports cars fast, light, and cheap
+2025-03-10 20:31:30 - INFO - Successfully fetched article: Elon Musk says X is down due to cyberattacks
+2025-03-10 20:31:30 - INFO - Successfully fetched article: Open social web browser Surf integrates with Bluesky in latest beta
+2025-03-10 20:31:31 - INFO - Successfully fetched article: Insight VC explains the biggest mistake that keeps founders from raising a big round
+2025-03-10 20:31:31 - INFO - Successfully fetched article: Hacker accessed PowerSchool’s network months before massive December breach
+2025-03-10 20:31:31 - INFO - Successfully fetched 5 articles.
+2025-03-10 20:31:52 - INFO - Summarization successful.
+2025-03-10 20:31:56 - INFO - Successfully fetched article: Daqus Energy has a plan to make EV sports cars fast, light, and cheap
+2025-03-10 20:31:57 - INFO - Successfully fetched article: Elon Musk says X is down due to cyberattacks
+2025-03-10 20:31:58 - INFO - Successfully fetched article: Open social web browser Surf integrates with Bluesky in latest beta
+2025-03-10 20:31:58 - INFO - Successfully fetched article: Insight VC explains the biggest mistake that keeps founders from raising a big round
+2025-03-10 20:31:59 - INFO - Successfully fetched article: Hacker accessed PowerSchool’s network months before massive December breach
+2025-03-10 20:31:59 - INFO - Successfully fetched 5 articles.
+2025-03-10 20:32:13 - INFO - Summarization successful.

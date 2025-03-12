@@ -1,0 +1,12 @@
+Title: Judge allows authors' AI copyright lawsuit against Meta to move forward
+Author(s): Anthony Ha
+Published: March 08, 2025 at 10:05 PM (EET)
+
+A federal judge is allowing an AI-related copyright lawsuit against Meta to move forward, although he dismissed part of the suit.
+In Kadrey vs. Meta, authors including Richard Kadrey, Sarah Silverman, and Ta-Nehisi Coates have alleged that Meta has violated their intellectual property rights by using their books to train its Llama AI models, and that the company removed the copyright information from their books to hide the alleged infringement.
+Meta, meanwhile, has claimed that its training qualifies as fair use, and it argued the case should be dismissed because the authors lack standing to sue. In court last month, U.S. District Judge Vince Chhabria seemed to indicate he was against dismissal, but he also criticized what he saw as “over-the-top” rhetoric from the authors’ legal teams.
+In Friday’s ruling, Chhabria wrote that the allegation of copyright infringement is “obviously a concrete injury sufficient for standing” and that the authors have also “adequately alleged that Meta intentionally removed CMI [copyright management information] to conceal copyright infringement.”
+“Taken together, these allegations raise a ‘reasonable, if not particularly strong inference’ that Meta removed CMI to try to prevent Llama from outputting CMI and thus revealing it was trained on copyrighted material,” Chhabria wrote.
+The judge did, however, dismiss the authors’ claims related to the California Comprehensive Computer Data Access and Fraud Act (CDAFA), because they did not “allege that Meta accessed their computers or servers — only their data (in the form of their books).”
+The lawsuit has already provided a few glimpses into how Meta approaches copyright, with court filings from the plaintiffs claiming that Mark Zuckerberg gave the Llama team permission to train the models using copyrighted works and that other Meta team members discussed the use of legally questionable content for AI training.
+The courts are weighing a number of AI copyright lawsuits at the moment, including The New York Times’ lawsuit against OpenAI.

@@ -1,0 +1,6 @@
+Title: Insight VC explains the biggest mistake that keeps founders from raising a big round
+Author(s): Julie Bort
+Published: March 10, 2025 at 07:04 PM (EET)
+
+Summary:
+VC Insight Partners manages $90 billion in assets under management. Insight co-led Databricks’ $10 billion deal in December; participated in Abnormal Security’s $250 million series D in August. Good, growing companies that are not selling AI as their core technology can still raise healthy checks.  startups entering their growth rounds (Series B and beyond) don’t necessarily need a CIO. But they do need systems that show the details beyond recent customer acquisition and its cousin, annual recurring revenue. Often young startups start with a kluged system where invoicing data is in one place, contract specifics somewhere else. Once a founder could walk away with a big check from just a good revenue growth chart and well articulated vision of the future, today, “If I can’t see it with my own eyes, it doesn't exist,” Hinkle said. “A lot of us were badly burned. in a hit on check size or valuation.”

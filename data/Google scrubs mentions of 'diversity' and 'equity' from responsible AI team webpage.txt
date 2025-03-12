@@ -1,0 +1,12 @@
+Title: Google scrubs mentions of 'diversity' and 'equity' from responsible AI team webpage
+Author(s): Kyle Wiggers
+Published: March 08, 2025 at 10:08 PM (EET)
+
+Google has quietly updated the webpage for its Responsible AI and Human Centered Technology (RAI-HCT) team, the team charged with conducting research into AI safety, fairness, and explainability, to scrub mentions of “diversity” and “equity.”
+A previous version of the page used language such as “marginalized communities,” “diverse,” “underrepresented groups,” and “equity” to describe the RAI-HCT team’s work. That language has been removed, or in some cases replaced with less specific wording (e.g. “all,” “varied,” and “numerous” rather than “diverse”)
+Google didn’t immediately respond to a request for comment.
+Date: Feb 26 – March 6, 2025Company: @Google Change: Scrubbed mentions of diversity and equity from the mission description of their Responsible AI team. pic.twitter.com/i9VvBcHMQ6
+— The Midas Project Watchtower (@SafetyChanges) March 8, 2025
+The changes, which were spotted by watchdog group The Midas Project, come after Google deleted similar language from its Startups Founders Fund grant website. The company said in early February that it would eliminate its diversity hiring targets and review its diversity, equity, and inclusion (DEI) programs.
+Google is among the many big tech companies that have rolled back DEI initiatives as the Trump Administration targets what it characterizes as an “illegal” practice. Amazon and Meta have walked back DEI measures over the past few months, and OpenAI recently removed mentions of diversity and inclusion from a webpage on its hiring practices. Apple, however, recently pushed back against a shareholder proposal to end its DEI programs.
+Many of these companies, including Google, have contracts with federal agencies.

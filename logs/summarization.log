@@ -1,0 +1,99 @@
+2025-03-09 12:35:45 - INFO - Downloading BART model for the first time...
+2025-03-09 12:36:34 - INFO - BART model downloaded and saved locally.
+2025-03-09 12:38:22 - INFO - Loading BART model from local storage.
+2025-03-09 12:42:36 - INFO - Loading BART model from local storage.
+2025-03-09 12:43:04 - INFO - Text summarized successfully.
+2025-03-09 15:18:54 - INFO - Loading BART model from local storage.
+2025-03-09 15:20:46 - INFO - Loading BART model from local storage.
+2025-03-09 15:21:09 - INFO - Text summarized successfully.
+2025-03-09 15:27:49 - INFO - Loading BART model from local storage.
+2025-03-09 15:28:03 - INFO - Text summarized successfully.
+2025-03-09 15:28:13 - INFO - Text summarized successfully.
+2025-03-09 15:47:18 - INFO - Loading BART model from local storage.
+2025-03-09 15:48:17 - INFO - Text summarized successfully.
+2025-03-09 15:48:27 - INFO - Text summarized successfully.
+2025-03-09 16:24:21 - INFO - Loading BART model from local storage.
+2025-03-09 16:25:19 - INFO - Text summarized successfully.
+2025-03-09 16:36:22 - INFO - Loading BART model from local storage.
+2025-03-09 16:37:25 - INFO - Summarization successful.
+2025-03-09 16:41:31 - INFO - Loading BART model from local storage.
+2025-03-09 16:41:54 - INFO - Summarization successful.
+2025-03-09 16:42:43 - INFO - Loading BART model from local storage.
+2025-03-09 16:42:58 - INFO - Summarization successful.
+2025-03-09 16:46:12 - INFO - Loading BART model from local storage.
+2025-03-09 16:46:26 - INFO - Summarization successful.
+2025-03-09 16:46:55 - INFO - Loading BART model from local storage.
+2025-03-09 16:47:09 - INFO - Summarization successful.
+2025-03-09 16:49:39 - INFO - Loading BART model from local storage.
+2025-03-09 16:50:22 - INFO - Summarization successful.
+2025-03-09 16:50:51 - INFO - Loading BART model from local storage.
+2025-03-09 16:51:07 - INFO - Summarization successful.
+2025-03-09 16:54:52 - INFO - Loading BART model from local storage.
+2025-03-09 16:55:09 - INFO - Summarization successful.
+2025-03-09 17:01:17 - INFO - Loading BART model from local storage.
+2025-03-09 17:01:59 - INFO - Summarization successful.
+2025-03-09 17:40:22 - INFO - Loading BART model from local storage.
+2025-03-09 17:40:39 - INFO - Summarization successful.
+2025-03-09 17:47:19 - INFO - Loading BART model from local storage.
+2025-03-09 17:47:25 - ERROR - Error during summarization: index out of range in self
+2025-03-09 17:51:17 - INFO - Loading BART model from local storage.
+2025-03-09 17:51:22 - ERROR - Error during summarization: index out of range in self
+2025-03-09 17:52:20 - INFO - Loading BART model from local storage.
+2025-03-09 17:52:25 - ERROR - Error during summarization: index out of range in self
+2025-03-09 17:52:55 - INFO - Loading BART model from local storage.
+2025-03-09 17:53:52 - INFO - Summarization successful.
+2025-03-10 10:47:03 - INFO - Downloading BART model for the first time...
+2025-03-10 10:47:04 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:48:47 - INFO - Downloading BART model for the first time...
+2025-03-10 10:48:48 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:48:48 - ERROR - Summarizer pipeline not initialized.
+2025-03-10 10:49:26 - INFO - Downloading BART model for the first time...
+2025-03-10 10:49:26 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:49:26 - ERROR - Summarizer pipeline not initialized.
+2025-03-10 10:50:47 - INFO - Downloading BART model for the first time...
+2025-03-10 10:50:48 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:50:48 - ERROR - Summarizer pipeline not initialized.
+2025-03-10 10:51:40 - INFO - Downloading BART model for the first time...
+2025-03-10 10:51:41 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:52:36 - INFO - Downloading BART model for the first time...
+2025-03-10 10:52:37 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:53:38 - INFO - Downloading BART model for the first time...
+2025-03-10 10:53:39 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:54:07 - INFO - Downloading BART model for the first time...
+2025-03-10 10:54:07 - ERROR - Error loading BART model: module 'torch' has no attribute 'frombuffer'
+2025-03-10 10:56:40 - INFO - Downloading BART model for the first time...
+2025-03-10 10:56:53 - ERROR - Error loading BART model: 0 unrecognized or not available.
+2025-03-10 10:57:51 - INFO - Downloading BART model for the first time...
+2025-03-10 10:58:01 - ERROR - Error loading BART model: 0 unrecognized or not available.
+2025-03-10 11:30:22 - INFO - Loading BART model from local storage.
+2025-03-10 11:30:26 - ERROR - Error loading BART model: 0 unrecognized or not available.
+2025-03-10 11:30:55 - INFO - Loading BART model from local storage.
+2025-03-10 12:19:40 - INFO - Loading BART model from local storage.
+2025-03-10 12:20:06 - ERROR - Error during summarization: No module named 'torch.distributed.fsdp'
+2025-03-10 12:21:53 - INFO - Loading BART model from local storage.
+2025-03-10 12:22:14 - ERROR - Error during summarization: No module named 'torch.distributed.fsdp'
+2025-03-10 12:23:01 - INFO - Loading BART model from local storage.
+2025-03-10 12:23:26 - ERROR - Error during summarization: No module named 'torch.distributed.fsdp'
+2025-03-10 12:24:09 - INFO - Loading BART model from local storage.
+2025-03-10 12:25:34 - INFO - Downloading BART model for the first time...
+2025-03-10 12:26:13 - INFO - BART model downloaded and saved locally.
+2025-03-10 12:32:52 - INFO - Loading BART model from local storage.
+2025-03-10 13:11:32 - INFO - Downloading BART model for the first time...
+2025-03-10 13:12:25 - INFO - BART model downloaded and saved locally.
+2025-03-10 13:15:10 - INFO - Loading BART model from local storage.
+2025-03-10 13:15:36 - INFO - Summarization successful.
+2025-03-10 13:16:35 - INFO - Loading BART model from local storage.
+2025-03-10 13:16:59 - INFO - Summarization successful.
+2025-03-10 13:17:06 - INFO - Summarization successful.
+2025-03-10 13:19:48 - INFO - Loading BART model from local storage.
+2025-03-10 13:20:14 - INFO - Summarization successful.
+2025-03-10 13:21:49 - INFO - Loading BART model from local storage.
+2025-03-10 13:22:16 - INFO - Summarization successful.
+2025-03-10 13:25:24 - INFO - Loading BART model from local storage.
+2025-03-10 13:25:55 - INFO - Summarization successful.
+2025-03-10 13:26:47 - INFO - Loading BART model from local storage.
+2025-03-10 13:27:13 - INFO - Summarization successful.
+2025-03-10 13:27:56 - INFO - Loading BART model from local storage.
+2025-03-10 13:28:20 - INFO - Summarization successful.
+2025-03-10 13:28:59 - INFO - Loading BART model from local storage.
+2025-03-10 13:29:21 - INFO - Summarization successful.
