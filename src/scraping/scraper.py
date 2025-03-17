@@ -6,7 +6,7 @@ import os
 import logging
 from pathlib import Path
 from docx import Document
-
+import re
 
 
 # Get the absolute path to the logs directory
@@ -89,10 +89,17 @@ def extract_article_content(soup):
     excerpt = excerpt_tag.text.strip().replace("\n\n", " ") if excerpt_tag else ""
 
     paragraphs = soup.find_all("p", class_="wp-block-paragraph")
+    # content = "\n".join(
+    #     p.text.strip() for p in paragraphs 
+    #     if p.text.strip() and not p.text.strip().startswith("Topics") and "© 2024 Yahoo" not in p.text.strip()
+    # )
     content = "\n".join(
-        p.text.strip() for p in paragraphs 
-        if p.text.strip() and not p.text.strip().startswith("Topics") and "© 2024 Yahoo" not in p.text.strip()
+    p.text.strip() for p in paragraphs
+    if p.text.strip() and not p.text.strip().startswith("Topics")
     )
+
+    # Remove copyright patterns like "© 2025 Yahoo" or similar
+    content = re.sub(r"© \d{4} Yahoo.", "", content)
 
     if not content:
         logging.warning("Article content is empty or unavailable....")

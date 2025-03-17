@@ -146,7 +146,7 @@ if "articles" in st.session_state and st.session_state["articles"]:
             )
 
             txt_path = "temp/summary.txt"
-            with open(txt_path, "w") as f:
+            with open(txt_path, "w",encoding='utf-8') as f:
                 f.write(txt_content)
 
             with open(txt_path, "rb") as f:
